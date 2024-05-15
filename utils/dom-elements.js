@@ -1,0 +1,7 @@
+export const nombre = document.querySelector('#nombre')
+export const apellido = document.querySelector('#apellido')
+export const email = document.querySelector('#email')
+export const contraseña = document.querySelector('#contraseña')
+export const repetirContraseña = document.querySelector('#repetir_contraseña')
+export const submit = document.querySelector('#submit')
+//  const errorDePantalla = document.querySelector('.validacion_mensaje')
