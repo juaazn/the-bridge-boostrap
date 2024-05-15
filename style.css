@@ -1,0 +1,9 @@
+@import './node_modules/bootstrap/scss/bootstrap.scss';
+
+.validacion_mensaje {
+  color: red;
+}
+
+.exito {
+  border: .1rem solid green;
+}
